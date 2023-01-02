@@ -7,4 +7,4 @@
 - WritingMachine_Main.ino is the main microcontroller code. Stepper motors are connected to MCU by CNC shield.
 
 ## Arvin Delavari - Mohammad Arman Yazdi
-## Iran University of Science and Technology
+### Iran University of Science and Technology
